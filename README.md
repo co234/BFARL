@@ -1,4 +1,3 @@
-# acml-in-processing
 This repository conatins the implementation of the paper "Bias-Tolerant Fair Classification," accepted at ACML 2021.
 
 ## Abstract
